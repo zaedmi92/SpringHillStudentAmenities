@@ -77,8 +77,7 @@
                     "type": "Shop",
                     "name": "SpringHill Bookstore",
                     "images": [
-                        "",
-                        ""
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
                     ],
                     "description":"This is the on campus bookstore, located inside the student center, where students can buy all their class materials such as access codes and textbooks. The bookstore also sells laptops, tablets, software and Spring Hill Merchandise.",
                     "more": "MON - WED: 8:00AM to 5:00PM, WED - FRI: 8:00AM to 4:00PM, SAT 10:00AM to 3:00PM",
@@ -94,8 +93,7 @@
                     "type": "Recreation",
                     "name": "Golf Course",
                     "images": [
-                        "",
-                        ""
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
                     ],
                     "description": "The Golf course, opened in 1930, is an 18 hole par-72 course. Open all year round it's a perfect course for all experience levels and a maximum yardage of 6,700 yards The club house sits on the left when you enter the campus on Rimes Rd. They offer affordable annual rates and rental clubs as well as range balls.",
                     "more": "MON : 11:00 AM to 7:00PM, TUES-SAT : 7:00AM to 7:00PM, SUN : 7:00AM to 5:00PM",            
