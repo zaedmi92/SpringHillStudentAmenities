@@ -44,9 +44,9 @@
                     "type": "Dining",
                     "name": "McKinney's on the Hill",
                     "images": [
-                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/078e1ad67b3632659ae2f2cd26bb28ac3fe99a16/docs/sample/images/McKinney's%20Front.jpg",
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/078e1ad67b3632659ae2f2cd26bb28ac3fe99a16/docs/sample/images/McKinney's%20Front.jpg"
                         
-                    ]
+                    ],
                     "description": "McKinney's is small pub on inside the student center that features a ping pong table and flat screen TV's that are perfect for watching the game. Their menu features Burgers, wings fries and some Vegan options.",
                     "more": "Mon-Sun 6:00PM - 12:00 AM",
                     "urls": [
