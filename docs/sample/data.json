@@ -64,11 +64,7 @@
                         "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
                     ],
                     "description": "The perfect place for students to catch lunch with their friends in between classes. It is located inside the student center. They offer a many that changes daily and includes vegan options.",
-                    "more": "Weekdays Breakfast 7:30AM to 10:30AM"
-                     "Weekdays Lunch: 10:30AM to 3:00PM"
-                     "Weekend Brunch: 10:30AM to 3:00PM"
-                     "Weekend Lunch: 12:00PM to 3:00PM"
-                     "Dinner: 3:00PM to 7:30PM"
+                    "more": "Weekdays Breakfast 7:30AM to 10:30AM, Weekdays Lunch: 10:30AM to 3:00PM, Weekend Brunch: 10:30AM to 3:00PM, Weekend Lunch: 12:00PM to 3:00PM, Dinner: 3:00PM to 7:30PM",
                     "urls": [
                         "https://shc.campusdish.com/en/locationsandmenus/studentdiningroom/"
                     ]
