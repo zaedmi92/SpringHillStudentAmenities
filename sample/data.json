@@ -1,0 +1,140 @@
+{
+    "meta": {
+        "app_id": "org.example.same.identifier.manifest.package",
+        "app_title": "Spring Hill College Student Amenities",
+        "version": 1,
+        "updated": "2023-01-26",
+        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
+        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
+        "marketplace_url": ""
+    },
+    "content": {
+        "en": {
+            "app": {
+                "theme": {
+                    "brand": "#B11623",
+                    "complementary": "#FAFAFA"
+                },
+                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
+                "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
+                "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
+                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
+                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
+            },
+            "pois": [{
+                    "id": "uniqueID",
+                    "lat": "30.694502567642235",
+                    "lon": "-88.13571933356984",
+                    "type": "Dining",
+                    "name": "Einstein Bagels",
+                    "images": [
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/078e1ad67b3632659ae2f2cd26bb28ac3fe99a16/docs/sample/images/Einsteins.jpg"
+                    ],
+                    "description": "Einstein Bagels is located next to the Burke Memorial Libary. Their menu offers bagels with a surplus of spreads and toppings, bagel sandwhiches, pastries, coffee, tea and coffee shakes.",
+                    "more": "Mon-Fri 7:00AM - 3:00PM",
+                    "urls": [
+                        "https://shc.campusdish.com/LocationsAndMenus/EinsteinBrosBagels"
+                    ]
+                },
+                {
+                    "id": "uniqueID-2",
+                    "lat": "30.69461767965872",
+                    "lon": "-88.1382716143584",
+                    "type": "Dining",
+                    "name": "McKinney's on the Hill",
+                    "images": [
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/078e1ad67b3632659ae2f2cd26bb28ac3fe99a16/docs/sample/images/McKinney's%20Front.jpg"
+                        
+                    ],
+                    "description": "McKinney's is small pub on inside the student center that features a ping pong table and flat screen TV's that are perfect for watching the game. Their menu features Burgers, wings fries and some Vegan options.",
+                    "more": "Mon-Sun 6:00PM - 12:00 AM",
+                    "urls": [
+                        "https://shc.campusdish.com/LocationsAndMenus/McKinneys"
+                    ]
+                },
+                 {
+                    "id": "uniqueID-3",
+                    "lat": "30.69470465071556",
+                    "lon": "-88.13836360553509",
+                    "type": "Dining",
+                    "name": "Dining Room",
+                    "images": [
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining%20Room%20Front.jpg",
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
+                    ],
+                    "description": "The perfect place for students to catch lunch with their friends in between classes. It is located inside the student center. They offer a many that changes daily and includes vegan options.",
+                    "more": "Weekdays Breakfast 7:30AM to 10:30AM, Weekdays Lunch: 10:30AM to 3:00PM, Weekend Brunch: 10:30AM to 3:00PM, Weekend Lunch: 12:00PM to 3:00PM, Dinner: 3:00PM to 7:30PM",
+                    "urls": [
+                        "https://shc.campusdish.com/en/locationsandmenus/studentdiningroom/"
+                    ]
+                },
+                     
+                {
+                    "id": "uniqueID-4",
+                    "lat": "30.694739146997815",
+                    "lon": "-88.13841951278441",
+                    "type": "Shop",
+                    "name": "SpringHill Bookstore",
+                    "images": [
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
+                    ],
+                    "description":"This is the on campus bookstore, located inside the student center, where students can buy all their class materials such as access codes and textbooks. The bookstore also sells laptops, tablets, software and Spring Hill Merchandise.",
+                    "more": "MON - WED: 8:00AM to 5:00PM, WED - FRI: 8:00AM to 4:00PM, SAT 10:00AM to 3:00PM",
+                    "urls": [
+                        "https://www.bncollege.com/"
+                    ]
+                },
+                
+                {
+                    "id": "uniqueID-5",
+                    "lat": "30.6873064652802",
+                    "lon": "-88.1355463286379",
+                    "type": "Recreation",
+                    "name": "Golf Course",
+                    "images": [
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
+                    ],
+                    "description": "The Golf course, opened in 1930, is an 18 hole par-72 course. Open all year round it's a perfect course for all experience levels and a maximum yardage of 6,700 yards The club house sits on the left when you enter the campus on Rimes Rd. They offer affordable annual rates and rental clubs as well as range balls.",
+                    "more": "MON : 11:00 AM to 7:00PM, TUES-SAT : 7:00AM to 7:00PM, SUN : 7:00AM to 5:00PM",            
+                    
+                    "urls": [
+                        "https://shcgolfcourse.com/"
+                    ]
+                },
+                
+                {
+                    "id": "uniqueID-6",
+                    "lat": "30.694248252221907",
+                    "lon": "-88.13668109170463",
+                    "type": "Informative",
+                    "name": "Library",
+                    "images": [
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/BurkeLibrary.jpg"
+                        
+                    ],
+                    "description": "The Marnie and John Burke Memorial Library at Spring Hill College opened in 2004 thanks to a donation from John Burke and his Brother Kevin. The Campus libary houses 500,000 books, journals, videos, microforms and other materials. ",
+                    "more": "SUN 1:30PM - 10:00PM, MON 7:30AM - 11:00PM, FRI 7:30AM - 5:00PM, SAT 1:00PM - 5:00PM",
+                    "urls": [
+                        "https://libguides.shc.edu/burkelibrary"
+                    ]
+                },
+                
+                {
+                    "id": "uniqueID-7",
+                    "lat": "30.694673751395666",
+                    "lon": "-88.13835249773861",
+                    "type": "Informative",
+                    "name": "Student Center",
+                    "images": [
+                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Student_Center_Front.jpg"
+                       
+                    ],
+                    "description": "The student center opened in 2010 and was named The Mary Lou and John Barter Student Center in 2016. This building is home to some very important locations on campus. It houses  Mckinney’s, the dining room, student affairs, the information center, a computer center,the bookstore and much more. If you’re new on campus this is a great place to start when trying to meet new people or find information",
+                    "more": "",
+                    "urls": ["https://www.shc.edu/student-life/campus-life/facilities/"]
+                }
+            ]
+        }
+    }
+}
