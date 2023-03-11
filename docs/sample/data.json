@@ -42,10 +42,7 @@
                     "lon": "-88.1382716143584",
                     "type": "Dining",
                     "name": "McKinney's on the Hill",
-                    "images": [
-                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/078e1ad67b3632659ae2f2cd26bb28ac3fe99a16/docs/sample/images/McKinney's%20Front.jpg"
-                        
-                    ],
+                    "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/McKinney's%20Front.jpg"],
                     "description": "McKinney's is small pub on inside the student center that features a ping pong table and flat screen TV's that are perfect for watching the game. Their menu features Burgers, wings fries and some Vegan options.",
                     "more": "Mon-Sun 6:00PM - 12:00 AM",
                     "urls": [
@@ -58,10 +55,7 @@
                     "lon": "-88.13836360553509",
                     "type": "Dining",
                     "name": "Dining Room",
-                    "images": [
-                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining%20Room%20Front.jpg",
-                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
-                    ],
+                    "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/Dining_Room_Inside.jpg"],
                     "description": "The perfect place for students to catch lunch with their friends in between classes. It is located inside the student center. They offer a many that changes daily and includes vegan options.",
                     "more": "Weekdays Breakfast 7:30AM to 10:30AM, Weekdays Lunch: 10:30AM to 3:00PM, Weekend Brunch: 10:30AM to 3:00PM, Weekend Lunch: 12:00PM to 3:00PM, Dinner: 3:00PM to 7:30PM",
                     "urls": [
@@ -75,9 +69,7 @@
                     "lon": "-88.13841951278441",
                     "type": "Shop",
                     "name": "SpringHill Bookstore",
-                    "images": [
-                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
-                    ],
+                    "images": [""],
                     "description":"This is the on campus bookstore, located inside the student center, where students can buy all their class materials such as access codes and textbooks. The bookstore also sells laptops, tablets, software and Spring Hill Merchandise.",
                     "more": "MON - WED: 8:00AM to 5:00PM, WED - FRI: 8:00AM to 4:00PM, SAT 10:00AM to 3:00PM",
                     "urls": [
@@ -91,15 +83,11 @@
                     "lon": "-88.1355463286379",
                     "type": "Recreation",
                     "name": "Golf Course",
-                    "images": [
-                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Dining_Room_Inside.jpg"
-                    ],
-                    "description": "The Golf course, opened in 1930, is an 18 hole par-72 course. Open all year round it's a perfect course for all experience levels and a maximum yardage of 6,700 yards The club house sits on the left when you enter the campus on Rimes Rd. They offer affordable annual rates and rental clubs as well as range balls.",
+                    "images": [""],
+                    "description": "The Golf course, opened in 1930, is an 18 hole par-72 course and a maximum yardage of 6,700 yards. Open all year round it's a perfect course for all experience levels. The club house sits on the left when you enter the campus on Rimes Rd. They offer affordable annual rates and rental clubs as well as range balls.",
                     "more": "MON : 11:00 AM to 7:00PM, TUES-SAT : 7:00AM to 7:00PM, SUN : 7:00AM to 5:00PM",            
                     
-                    "urls": [
-                        "https://shcgolfcourse.com/"
-                    ]
+                    "urls": ["https://shcgolfcourse.com/"]
                 },
                 
                 {
@@ -108,15 +96,10 @@
                     "lon": "-88.13668109170463",
                     "type": "Informative",
                     "name": "Library",
-                    "images": [
-                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/BurkeLibrary.jpg"
-                        
-                    ],
+                    "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/BurkeLibrary.jpg"],
                     "description": "The Marnie and John Burke Memorial Library at Spring Hill College opened in 2004 thanks to a donation from John Burke and his Brother Kevin. The Campus libary houses 500,000 books, journals, videos, microforms and other materials. ",
                     "more": "SUN 1:30PM - 10:00PM, MON 7:30AM - 11:00PM, FRI 7:30AM - 5:00PM, SAT 1:00PM - 5:00PM",
-                    "urls": [
-                        "https://libguides.shc.edu/burkelibrary"
-                    ]
+                    "urls": ["https://libguides.shc.edu/burkelibrary"]
                 },
                 
                 {
@@ -125,10 +108,7 @@
                     "lon": "-88.13835249773861",
                     "type": "Informative",
                     "name": "Student Center",
-                    "images": [
-                        "https://github.com/zaedmi92/SpringHillStudentAmenities/blob/14e3be0197e96f54e199a19e2985b085263bda23/docs/sample/images/Student_Center_Front.jpg"
-                       
-                    ],
+                    "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/Student_Center_Front.jpg"],
                     "description": "The student center opened in 2010 and was named The Mary Lou and John Barter Student Center in 2016. This building is home to some very important locations on campus. It houses  Mckinney’s, the dining room, student affairs, the information center, a computer center,the bookstore and much more. If you’re new on campus this is a great place to start when trying to meet new people or find information",
                     "more": "",
                     "urls": ["https://www.shc.edu/student-life/campus-life/facilities/"]
