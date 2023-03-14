@@ -24,8 +24,8 @@
             },
             "pois": [{
                     "id": "uniqueID",
-                    "lat": "30.694502567642235",
-                    "lon": "-88.13571933356984",
+                    "lat": "30.69403813543892",
+                    "lon": "-88.13658091121398",
                     "type": "Dining",
                     "name": "Einstein Bagels",
                     "images": ["https://raw.githubusercontent.com/zaedmi92/SpringHillStudentAmenities/078e1ad67b3632659ae2f2cd26bb28ac3fe99a16/docs/sample/images/Einsteins.jpg"],
