@@ -70,7 +70,7 @@
                     "type": "Chapel",
                     "name": "St. Joseph Chapel",
                     "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/IMG-0093.jpg"],
-                    "description":"This is the historic SpringHill College St. Joseph Chapel. It was erected in 1910 and remodeled in 2003. It features a Heissler organ and seating for 350. It is available for rent for weddings, and sacred musical concerts."
+                    "description":"This is the historic SpringHill College St. Joseph Chapel. It was erected in 1910 and remodeled in 2003. It features a Heissler organ and seating for 350. It is available for rent for weddings, and sacred musical concerts.",
                     "more": "Open 24/7 with mass being conducted daily at 12:15PM while school is in session and at 11AM and 9PM on Sundays. The 9pm mass is only celebrated when school is in session.",
                     "urls": [
                         "https://badgerweb.shc.edu/ICS/Campus_Life/Campus_Ministry.jnz"
