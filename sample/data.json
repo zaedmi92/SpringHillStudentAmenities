@@ -65,15 +65,15 @@
                      
                 {
                     "id": "uniqueID-4",
-                    "lat": "30.694739146997815",
-                    "lon": "-88.13841951278441",
-                    "type": "Shop",
-                    "name": "SpringHill Bookstore",
-                    "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/blob/a2f705dc47ff6c5d0bf0f4dd5b781a6f3ef04e88/docs/sample/images/Student_Center_Front.jpg"],
-                    "description":"This is the on campus bookstore, located inside the student center, where students can buy all their class materials such as access codes and textbooks. The bookstore also sells laptops, tablets, software and Spring Hill Merchandise.",
-                    "more": "MON - WED: 8:00AM to 5:00PM, WED - FRI: 8:00AM to 4:00PM, SAT 10:00AM to 3:00PM",
+                    "lat": "30.693941438478785",
+                    "lon": "-88.13707550647713",
+                    "type": "Chapel",
+                    "name": "St. Joseph Chapel",
+                    "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/IMG-0093.jpg"],
+                    "description":"This is the historic SpringHill College St. Joseph Chapel. It was erected in 1910 and remodeled in 2003. It features a Heissler organ and seating for 350. It is available for rent for weddings, and sacred musical concerts.",
+                    "more": "Open 24/7 with mass being conducted daily at 12:15PM while school is in session and at 11AM and 9PM on Sundays. The 9pm mass is only celebrated when school is in session.",
                     "urls": [
-                        "https://www.bncollege.com/"
+                        "https://badgerweb.shc.edu/ICS/Campus_Life/Campus_Ministry.jnz"
                     ]
                 },
                 
@@ -83,7 +83,7 @@
                     "lon": "-88.1355463286379",
                     "type": "Recreation",
                     "name": "Golf Course",
-                    "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/blob/a2f705dc47ff6c5d0bf0f4dd5b781a6f3ef04e88/docs/sample/images/Student_Center_Front.jpg"],
+                    "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/IMG-0094.jpg"],
                     "description": "The Golf course, opened in 1930, is an 18 hole par-72 course and a maximum yardage of 6,700 yards. Open all year round it's a perfect course for all experience levels. The club house sits on the left when you enter the campus on Rimes Rd. They offer affordable annual rates and rental clubs as well as range balls.",
                     "more": "MON : 11:00 AM to 7:00PM, TUES-SAT : 7:00AM to 7:00PM, SUN : 7:00AM to 5:00PM",            
                     
