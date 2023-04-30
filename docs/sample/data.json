@@ -110,7 +110,7 @@
                     "name": "Student Center",
                     "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/Student_Center_Front.jpg"],
                     "description": "The student center opened in 2010 and was named The Mary Lou and John Barter Student Center in 2016. This building is home to some very important locations on campus. It houses  Mckinney’s, the dining room, student affairs, the information center, a computer center,the bookstore and much more. If you’re new on campus this is a great place to start when trying to meet new people or find information",
-                    "more": "",
+                    "more": " ",
                     "urls": ["https://www.shc.edu/student-life/campus-life/facilities/"]
                 }
             ]
